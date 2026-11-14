@@ -12,4 +12,4 @@ Through YouTube and Instagram, I share recordings and moments from playing. Curs
 - [Development journal](docs/DEVLOG.md)
 - [Changelog](CHANGELOG.md)
 
-[Visit Babuni Gaming on the portfolio](https://www.babuni.dev/projects/babuni-gaming/).
+[Visit Babuni Gaming on the portfolio](https://www.babuni.dev/#project=babuni-gaming&bloom=big&read=overview).
